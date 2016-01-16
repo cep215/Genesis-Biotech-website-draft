@@ -1,0 +1,117 @@
+@charset "utf-8";
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #000;
+	background-color: #FFF;
+}
+/* CSS Document */
+
+#container {
+	width: 968px;
+	background: #FFF;
+	margin: 0 auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: hidden;
+}
+#banner {
+	position: relative;
+}
+#container #banner #genesis_biotech {
+	position: absolute;
+	top: -1px;
+	right: -1px;
+	bottom: 0px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+}
+#main_text {
+	background-color: #FFF;
+	width: 362px;
+	line-height: normal;
+	padding: 12px;
+	position: absolute;
+	left: 570px;
+	top: 27px;
+	font-size: 10pt;
+	font-style: normal;
+	color: #000;
+	text-decoration: blink;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	height: 148px;
+	visibility: visible;
+}
+#main_text h2 {
+	color: #0099FF;
+	margin-top: 0;
+	margin-bottom: 1px;
+	font-size: 18pt;
+	font-family: Calibri;
+	text-decoration: blink;
+	font-weight: bolder;
+}
+#imag {
+	background-image: url(teamwork1.jpg);
+	position: relative;
+	height: 380px;
+	width: 968px;
+}
+#main_text {
+	height: 191px;
+	width: 342px;
+	position: absolute;
+	top: 40px;
+	right: 20px;
+}
+
+
+#main_text h3 {
+	font-size:12pt;
+	margin: 0 auto;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-decoration: blink;
+}
+#main_text p{
+	font-size: 11pt;
+	margin: 0 auto;
+	font-family: Calibri;
+	font-weight: normal;
+}
+
+
+
+
+#left_column, #center_column, #right_column {
+	width: 316px;
+	float: left;
+	font-family: Calibri;
+	color: #09F;
+	font-size: 12pt;
+}
+
+
+
+#center_column, #right_column {
+	margin-left: 10px;
+}
+p {
+	margin-top: 1em;
+	font-family: Calibri;
+	font-size: 11pt;
+	color: rgb(0,0,0);
+	font-weight: normal;
+}
+#flag1 {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 892px;
+	top: -57px;
+}
+#flag2 {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 930px;
+	top: -56px;
+}

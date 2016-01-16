@@ -1,0 +1,155 @@
+@charset "utf-8";
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #000;
+	background-color: #FFF;
+}
+/* CSS Document */
+
+#container {
+	width: 968px;
+	background: #FFF;
+	margin: 0 auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: hidden;
+	text-align: center;
+}
+#banner {
+	position: relative;
+}
+#container #banner #genesis_biotech {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	font-family: Calibri;
+	background-color: #FFF;
+	height: 34px;
+}
+
+
+#main_image {
+	background-image: url(main_page.jpg);
+	background-repeat: no-repeat;
+	position: relative;
+	height: 376px;
+	width: 968px;
+}
+}
+
+#main_image {
+	background-image: url(main_page.jpg);
+	position: relative;
+	height: 376px;
+	width: 968px;
+	font-weight: bold;
+}
+#main_text {
+	width: 343px;
+	line-height: normal;
+	padding: 12px;
+	position: absolute;
+	left: 44px;
+	top: 39px;
+	font-size: 10pt;
+	font-style: normal;
+	color: #000;
+	text-decoration: blink;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	height: 152px;
+	visibility: visible;
+}
+#main_text h2 {
+	color: #09F;
+	margin-top: 0;
+	margin-bottom: 1px;
+	font-size: 18pt;
+	font-family: Calibri;
+	text-decoration: blink;
+	font-weight: bolder;
+	text-align: left;
+}
+#main_text h3 {
+	font-size:12pt;
+	margin: 0 auto;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-decoration: blink;
+}
+#main_text p{
+	font-size: 12pt;
+	margin: 0 auto;
+	font-family: Calibri;
+	text-align: justify;
+	font-weight: bold;
+	vertical-align: text-bottom;
+	text-indent: 100pt;
+}
+
+
+
+
+#left_column, #center_column, #right_column {
+	width: 316px;
+	float: left;
+	font-family: Calibri;
+	color: #09F;
+	font-size: 12pt;
+	text-align: left;
+}
+
+
+
+#center_column, #right_column {
+	margin-left: 10px;
+	font-family: Calibri;
+	font-weight: bolder;
+}
+p {
+	margin-top: 1em;
+	font-family: Calibri;
+	font-size: 11pt;
+	color: #000;
+	font-weight: normal;
+}
+#smallimag {
+	height: 100px;
+	width: 200px;
+}
+#map {
+	height: 375px;
+	width: 430px;
+	position: absolute;
+	left: 736px;
+	top: 131px;
+}
+#flag1 {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 892px;
+	top: -57px;
+}
+
+#flag2 {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 930px;
+	top: -56px;
+}
+#flag1c {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 1078px;
+	top: 54px;
+}
+
+#flag2c {
+	height: 20px;
+	width: 30px;
+	position: absolute;
+	left: 1117px;
+	top: 55px;
+}
